@@ -1,4 +1,6 @@
-## Hi there 👋
+## Xin chào! 👋
+
+My name is Annie Nguyen, a 
 
 <!--
 **annie251/annie251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
